@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my sec Git repository
-Author-gagan joshi
+Author-gagan (Apna college)
 </br>
 jj
